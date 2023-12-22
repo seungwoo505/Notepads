@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# 메모장
+
+## UI
+
+### 메인화면
+![Made](https://github.com/seungwoo505/Notepads/blob/main/mainScreen.png)
+
+### 만들기
+![Made](https://github.com/seungwoo505/Notepads/blob/main/enter.png)
+
+### 변경하기
+![Permute](https://github.com/seungwoo505/Notepads/blob/main/modify.png)
+
+## 사용된 개념
+
+- React
+- Fbric
+>>>>>>> 2cd67672824ef2594e339cf32410832275bef65b
