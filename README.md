@@ -3,7 +3,7 @@
 ## UI
 
 ### 메인화면
-![Made](https://github.com/seungwoo505/Notepads/blob/main/main.png)
+![Made](https://github.com/seungwoo505/Notepads/blob/main/mainScreen.png)
 
 ### 만들기
 ![Made](https://github.com/seungwoo505/Notepads/blob/main/enter.png)
