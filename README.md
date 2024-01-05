@@ -15,3 +15,4 @@
 
 - React
 - Fbric
+- MariaDB
