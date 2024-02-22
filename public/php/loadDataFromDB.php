@@ -9,7 +9,7 @@ $title = $body[title];
 //MySQL DB에 접속하기
 $conn=mysqli_connect("seungwoo.i234.me","id","password","project", "3300");
  
-//한긓깨짐 방지
+//한글 깨짐 방지
 mysqli_query($conn,"set names utf8");
  
 //DB에서 데이터를 읽어오는 쿼리문
