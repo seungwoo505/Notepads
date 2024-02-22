@@ -97,7 +97,7 @@ function Change(props){
   	useEffect(() => {
   		fetch('php/loadDataFromDB.php',
 		{
-			method: "PATCH",
+			method: "POST",
 			body: JSON.stringify({
 				title: title,
       			password: password
@@ -172,7 +172,7 @@ function Change(props){
 
     	fetch('/php/updateDataWithFile.php', 
     	{
-      		method: "POST",
+      		method: "PATCH",
       		body: JSON.stringify({
         		title: title,
         		password: password,
