@@ -97,7 +97,7 @@ function Change(props){
   	useEffect(() => {
   		fetch('php/loadDataFromDB.php',
 		{
-			method: "POST",
+			method: "PATCH",
 			body: JSON.stringify({
 				title: title,
       			password: password
