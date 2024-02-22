@@ -15,7 +15,7 @@ function Front(props){
 	const load_title = () =>{
 		fetch('php/loadDataFromDB.php',
 		{
-			method: "POST",
+			method: "GET",
 			body: JSON.stringify({
 				title: selectT
 			})
