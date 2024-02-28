@@ -9,13 +9,13 @@
 ## UI
 
 ### 메인화면
-![Made](https://github.com/seungwoo505/Notepads/blob/main/mainScreen.png)
+<img src="https://github.com/seungwoo505/Notepads/blob/main/mainScreen.png" height="500"/>
 
 ### 만들기
-![Made](https://github.com/seungwoo505/Notepads/blob/main/enter.png)
+<img src="https://github.com/seungwoo505/Notepads/blob/main/enter.png" height="500"/>
 
 ### 변경하기
-![Permute](https://github.com/seungwoo505/Notepads/blob/main/modify.png)
+<img src="https://github.com/seungwoo505/Notepads/blob/main/modify.png" height="500"/>
 
 ## 설명
 메모장의 제목과 비밀번호를 입력하고 저장을한 다음 공유하고 싶은 대상에게도 제목과 비밀번호를 제공한다면 동시에 같은 화면을 보게됩니다.
