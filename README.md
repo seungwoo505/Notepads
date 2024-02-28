@@ -9,7 +9,7 @@
 ## UI
 
 ### 메인화면
-<img src="https://github.com/seungwoo505/Notepads/blob/main/mainScreen.png" height="300"/>
+<img src="https://github.com/seungwoo505/Notepads/blob/main/mainScreen.png" height="400"/>
 
 ### 만들기
 <img src="https://github.com/seungwoo505/Notepads/blob/main/enter.png" height="500"/>
