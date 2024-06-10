@@ -1,0 +1,122 @@
+#notepad{
+	width: 50%;
+	height: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#loading{
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: white;
+}
+#loading > h1{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	font-size: 4ex;
+	transform: translate(-50%, -50%);
+}
+
+#title{
+	width: 50%;
+	height: 5%;
+	font-size: 4ex;
+}
+
+#titletext{
+	display: inline-block;
+	font-size: 4ex;
+}
+
+#xtype{
+	font-size: 5ex;
+	display: inline-block;
+	float: right;
+	position: relative;
+}
+
+#xtype:after{
+	content: "\00d7";
+}
+
+#password{
+	width: 20%;
+	height: 5%;
+	font-size: 4ex;
+}
+
+#save{
+	width: 15%;
+	height: 5%;
+	border: 0;
+  	padding: 0;
+	background: #1b5ac2;
+	outline: none;
+	color: #ffffff;
+	font-size: 4ex;
+}
+
+#check{
+	justify-content: center;
+}
+
+#check > img, #check > label{
+	display: inline-block;
+	width: 4%;
+	height: 4%;
+	padding: 2%;
+	float: left;
+}
+
+#check > label{
+	display: inline-block;
+	width: 4%;
+	height: 4%;
+	padding: 2%;
+	flex-direction: row;
+}
+
+#check > label > img{
+	width: 100%;
+	height: 100%;
+	/*padding: 2%;*/
+	position: relative;
+	top: 0;
+}
+
+#check > img:first-child{
+	margin-left: 30%;
+}
+
+#check > label > input{
+	visibility: hidden;
+	width: 0;
+	height: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+.selected{
+	background-color: #adb5bd;
+}
+
+#check > img:hover:not(.selected), #check > label:hover:not(.selected){
+	background-color: #e9ecef;
+}
+
+#note{
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+
+.sample-canvas{
+  width: 100%;
+  height: 100%;
+}
